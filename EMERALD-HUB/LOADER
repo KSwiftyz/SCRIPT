@@ -2,6 +2,6 @@ repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
     print("loadstring(game:HttpGet(""))();")
-elseif PlaceId == 7057682590 then
-    loadstring(game:HttpGet(""))();
+elseif PlaceId == 3956818381 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Ninja-Legends/main/Emerald-Hub/ScriptLoader"))();
 end

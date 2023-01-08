@@ -1,7 +1,13 @@
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
-    print("A")
+    print("fixed bug can't run")
+elseif PlaceId == 7057682590 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KkSwiftKx/NormalScript/main/SwiftyHub/Climb2000Stairs/Script"))();
+elseif PlaceId == 7047488135 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KkSwiftKx/NormalScriptz/main/SwiftyHub/SpeedRunSimulator/ScriptLoader"))();
 elseif PlaceId == 3956818381 then
-    print("B")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Ninja-Legends/main/Emerald-Hub/ScriptLoader"))();
+elseif PlaceId == 9498006165 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Tapping-Simulator/main/Emerald-Hub/ScriptLoader"))();
 end

@@ -10,4 +10,6 @@ elseif PlaceId == 3956818381 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Ninja-Legends/main/Emerald-Hub/ScriptLoader"))();
 elseif PlaceId == 9498006165 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Tapping-Simulator/main/Emerald-Hub/ScriptLoader"))();
+elseif PlaceId == 10967799786 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Pet-Clicking-Simulator/main/Emerald-Hub/ScriptLoader"))();
 end

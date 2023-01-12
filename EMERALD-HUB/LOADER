@@ -12,4 +12,6 @@ elseif PlaceId == 9498006165 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Tapping-Simulator/main/Emerald-Hub/ScriptLoader"))();
 elseif PlaceId == 10967799786 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Pet-Clicking-Simulator/main/Emerald-Hub/ScriptLoader"))();
+elseif PlaceId == 8884334497 then    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KSwiftyz/Mining-Clicker-Simulator/main/Emerald-Hub/ScriptLoader"))();
 end
